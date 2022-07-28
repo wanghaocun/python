@@ -68,7 +68,7 @@ if __name__ == '__main__':
 
 > **返回结果示例：**
 
-![image-20220716185921611](images/mage-20220716185921611.png)
+![image-20220716185921611](./images/image-20220716185921611.png)
 
 
 
@@ -231,7 +231,7 @@ if __name__ == '__main__':
 
 > **返回结果示例：**
 
-![](C:\Users\wanghc\AppData\Roaming\Typora\typora-user-images\image-20220717170252456.png)
+![image-20220717170252456](./images/image-20220717170252456.png)
 
 
 
@@ -285,5 +285,5 @@ if __name__ == '__main__':
 
 > **返回结果示例：**
 
-![](C:\Users\wanghc\AppData\Roaming\Typora\typora-user-images\image-20220717170418347.png)
+![image-20220717170418347](./images/image-20220717170418347.png)
 
